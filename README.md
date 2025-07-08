@@ -25,7 +25,7 @@ A simple yet fully functional **Tic Tac Toe** game built using **HTML**, **CSS**
 
 ## 🚀 Live Demo
 
-[Click here to play it live]([https://yourusername.github.io/tic-tac-toe/](https://deep2234.github.io/Tic_Tac_Toe/))  
+![Click here to play it live]([https://yourusername.github.io/tic-tac-toe/](https://deep2234.github.io/Tic_Tac_Toe/))  
 <!-- Replace with your actual GitHub Pages link -->
 
 ---
